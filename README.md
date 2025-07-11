@@ -5,3 +5,5 @@ Skills demonstrated
 -Cloning a github repository to a local machine.
 -Using Git for version control
 Html website
+
+07/11 added some style 
